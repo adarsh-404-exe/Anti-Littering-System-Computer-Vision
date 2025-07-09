@@ -24,7 +24,7 @@ Follow these steps to set up the Anti-Littering System on your local machine:
 
 1. **Clone the repository**:
 ```python
-git clone https://github.com/ananya868/Anti-Littering-System-Computer-Vision.git
+git clone https://github.com/adarsh-404-exe/Anti-Littering-System-Computer-Vision.git
 cd Anti-Littering-System-Computer-Vision
 ```
 
@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📇
 For any inquiries or feedback, please contact us at:
-- Email: ananya8154@gmail.com
+- Email: adarshagrawal049@gmail.com
 
 ## Acknowledgements
 We would like to thank the following resources and communities for their support:
